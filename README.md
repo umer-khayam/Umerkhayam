@@ -1,19 +1,19 @@
-# Hi, I'm Umer 👋
+# Hi, I am Umer Khayam 👋
 
-I'm a Junior Data Analyst with a background in Computer Science. I work with SQL, Python, Power BI and Excel to clean data, create dashboards, and find insights that help in decision making.
+I am a Junior Data Analyst with a Bachelor’s in Computer Science. I love working with data to find insights and create visualizations that help decision-making.
 
-### 🔧 Skills & Tools
-- SQL  
-- Python (Pandas, NumPy, Matplotlib)
-- Power BI  
-- Excel (Advanced)  
-- Jupyter Notebook  
-- VS Code  
+## Skills & Tools
+- Programming: Python, SQL
+- Data Visualization: Power BI, Matplotlib, Seaborn
+- Data Analysis: Excel (Advanced), Pandas
+- Development Tools: Jupyter Notebook, VS Code
 
-### 📊 Projects
-- Sales Data Analysis (Python)  
-- Power BI Dashboard  
-- SQL Query Portfolio  
-- Excel Data Cleaning Project  
+## Projects
+### Python Data Cleaning
+- Created a sample dataset and performed data cleaning and visualization using Python.
+- Skills used: Python, Pandas, Matplotlib
+- Notebook: [`python_data_cleaning.ipynb`](./python_data_cleaning.ipynb)
 
-I'm currently building my data portfolio, learning new tools, and open to opportunities in analytics.
+### Sales Data Analysis (Power BI)
+- Designed interactive dashboards to analyze sales performance.
+- Skills used: Power BI, Excel
